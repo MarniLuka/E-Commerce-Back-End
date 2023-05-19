@@ -17,7 +17,7 @@ After exiting MySQL, you need to run the 'seeds' file to see the mock data. To s
 
 Now, you can use Insomnia to use the API routes to get, post, put, and/or delete data in the database you created.
 
-A [demonstration video]() is provided.
+A [demonstration video](https://drive.google.com/file/d/1PIRaP4biVkQSPuJCBDwuwXmKh7Gp-OY8/view) is provided.
 
 ## Credits
 Starter code was provided by the [GATech Coding Bootcamp](https://github.com/coding-boot-camp/fantastic-umbrella).
